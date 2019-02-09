@@ -1,2 +1,3 @@
-# cs5200-Android-Music-Player
-This repository contains source code of a music streaming app 
+# cs5200ProjectRandom
+
+This is repositoty for CS5200 Project. 
